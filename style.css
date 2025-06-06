@@ -127,7 +127,7 @@ td.selected {
     animation: shake 0.4s cubic-bezier(.36,.07,.19,.97) both;
 }
 
-/* Estilos del reloj circular */
+/* Estilos del reloj circular con movimiento */
 #timer-container {
     position: relative;
     width: 100px;
